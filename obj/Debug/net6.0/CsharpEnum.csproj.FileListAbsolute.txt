@@ -1,0 +1,15 @@
+C:\Users\MGM\Desktop\VsCode\C#\CsharpEnum\bin\Debug\net6.0\CsharpEnum.exe
+C:\Users\MGM\Desktop\VsCode\C#\CsharpEnum\bin\Debug\net6.0\CsharpEnum.deps.json
+C:\Users\MGM\Desktop\VsCode\C#\CsharpEnum\bin\Debug\net6.0\CsharpEnum.runtimeconfig.json
+C:\Users\MGM\Desktop\VsCode\C#\CsharpEnum\bin\Debug\net6.0\CsharpEnum.dll
+C:\Users\MGM\Desktop\VsCode\C#\CsharpEnum\bin\Debug\net6.0\ref\CsharpEnum.dll
+C:\Users\MGM\Desktop\VsCode\C#\CsharpEnum\bin\Debug\net6.0\CsharpEnum.pdb
+C:\Users\MGM\Desktop\VsCode\C#\CsharpEnum\obj\Debug\net6.0\CsharpEnum.csproj.AssemblyReference.cache
+C:\Users\MGM\Desktop\VsCode\C#\CsharpEnum\obj\Debug\net6.0\CsharpEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MGM\Desktop\VsCode\C#\CsharpEnum\obj\Debug\net6.0\CsharpEnum.AssemblyInfoInputs.cache
+C:\Users\MGM\Desktop\VsCode\C#\CsharpEnum\obj\Debug\net6.0\CsharpEnum.AssemblyInfo.cs
+C:\Users\MGM\Desktop\VsCode\C#\CsharpEnum\obj\Debug\net6.0\CsharpEnum.csproj.CoreCompileInputs.cache
+C:\Users\MGM\Desktop\VsCode\C#\CsharpEnum\obj\Debug\net6.0\CsharpEnum.dll
+C:\Users\MGM\Desktop\VsCode\C#\CsharpEnum\obj\Debug\net6.0\ref\CsharpEnum.dll
+C:\Users\MGM\Desktop\VsCode\C#\CsharpEnum\obj\Debug\net6.0\CsharpEnum.pdb
+C:\Users\MGM\Desktop\VsCode\C#\CsharpEnum\obj\Debug\net6.0\CsharpEnum.genruntimeconfig.cache
